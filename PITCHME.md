@@ -33,8 +33,8 @@ Tinkercad Circuits evolution of product. What can it do? How will it help you in
 ---
 ##  Framing assignments and challenges
 ### Ideas Learning Adventures:
-1. The Power Detective
-2. (Bonus) Hunt for Energy: Energey Scavenger Hunt
+* Building virtual
+* Building in reality
 
 ---
 ## Let's get started
